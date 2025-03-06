@@ -1,7 +1,7 @@
 ---
 layout: page
 title: portfolio
-permalink: /portfolio/
+permalink: /Portfolio
 description: A growing collection of your cool posts.
 nav: true
 nav_order: 3

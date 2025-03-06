@@ -1,37 +1,37 @@
 ---
 layout: page
-title: portfolio
-permalink: /Portfolio
-description: A growing collection of your cool posts.
+title: projects
+permalink: /projects/
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [sample]
+display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/portfolio.md -->
-<div class="posts">
-{% if site.enable_posts_categories and page.display_categories %}
-  <!-- Display categorized posts -->
+<!-- pages/projects.md -->
+<div class="projects">
+{% if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_posts = site.posts | where: "category", category %}
-  {% assign sorted_posts = categorized_posts | sort: "importance" %}
-  <!-- Generate cards for each posts -->
+  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for posts in sorted_posts %}
-      {% include posts_horizontal.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for posts in sorted_posts %}
-      {% include posts.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -39,25 +39,25 @@ horizontal: false
 
 {% else %}
 
-<!-- Display posts without categories -->
+<!-- Display projects without categories -->
 
-{% assign sorted_posts = site.posts | sort: "importance" %}
+{% assign sorted_projects = site.projects | sort: "importance" %}
 
-  <!-- Generate cards for each posts -->
+  <!-- Generate cards for each project -->
 
 {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for posts in sorted_posts %}
-      {% include posts_horizontal.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for posts in sorted_posts %}
-      {% include posts.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}

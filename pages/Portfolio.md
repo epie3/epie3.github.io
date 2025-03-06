@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: Portfolio
 category: sample
-permalink: /sample-posts
+permalink: /Portfolio
 ---

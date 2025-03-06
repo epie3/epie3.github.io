@@ -15,5 +15,5 @@ description:	       "Portfolio"
 author:              "Edward Pieluc"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:vbnnbfbn
+#feed:vb
 #  path: rss-feed.xml

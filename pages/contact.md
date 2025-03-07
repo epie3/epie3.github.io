@@ -6,7 +6,7 @@ permalink: /contact
 
 <!-- modify this form HTML and place wherever you want your form -->
 <head>
-  <link rel="stylesheet" href="_contact.scss">
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/_contact.scss">
 </head>
 
 <form

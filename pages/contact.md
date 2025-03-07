@@ -16,19 +16,19 @@ permalink: /contact
   method="POST"
 >
   <div class="fs-field">
-    <label class="fs-label" for="name">Name</label>
+    <label class="fs-label" for="name">Name       </label>
     <input class="fs-input" id="name" name="name" required />
   </div>
   <div class="fs-field">
-    <label class="fs-label" for="email">Email Address</label>
+    <label class="fs-label" for="email">Email Address   </label>
     <input class="fs-input" id="email" name="email" required />
   </div>
   <div class="fs-field">
-    <label class="fs-label" for="number">Phone Number</label>
+    <label class="fs-label" for="number">Phone Number   </label>
     <input class="fs-input" id="number" name="number" />
   </div>
   <div class="fs-field">
-    <label class="fs-label" for="message">Message</label>
+    <label class="fs-label" for="message">Message       </label>
     <textarea
       class="fs-textarea"
       id="message"

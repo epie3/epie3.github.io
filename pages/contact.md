@@ -5,9 +5,9 @@ permalink: /contact
 ---
 
 <!-- modify this form HTML and place wherever you want your form -->
-<head>
-  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/_contact.scss">
-</head>
+
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/_contact.scss">
+
 
 <form
   action="https://formspree.io/f/xaneworp"

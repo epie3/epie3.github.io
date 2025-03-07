@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
-categories: documentation
+title: "Ping Pong Ball Launcher"
+author: "Edward Pieluc"
+categories: sample
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---

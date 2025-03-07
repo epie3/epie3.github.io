@@ -135,7 +135,7 @@ fieldset {
 
 .fs-button {
   background-color: var(--color-primary);
-  border-radius: 0.375rem;
+  border-radius: 0rem;
   color: white;
   cursor: pointer;
   font-size: 0.875rem;
@@ -159,7 +159,7 @@ fieldset {
 .fs-input,
 .fs-select {
   appearance: none;
-  border-radius: 0.375rem;
+  border-radius: 0rem;
   border-width: 0;
   box-shadow: var(--color-border-default) 0 0 0 1px inset;
   color: var(--color-primary);
@@ -215,7 +215,7 @@ fieldset {
 }
 
 .fs-checkbox {
-  border-radius: 0.25rem;
+  border-radius: 0rem;
 }
 
 .fs-radio {
@@ -263,13 +263,13 @@ fieldset {
 
 .fs-slider::-moz-range-track {
   background-color: var(--color-background);
-  border-radius: 0.5rem;
+  border-radius: 0rem;
   height: 0.5rem;
 }
 
 .fs-slider::-webkit-slider-runnable-track {
   background-color: var(--color-background);
-  border-radius: 0.5rem;
+  border-radius: 0rem;
   height: 0.5rem;
 }
 
@@ -312,7 +312,7 @@ fieldset {
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='white'/%3e%3c/svg%3e");
   background-position: left center;
   background-repeat: no-repeat;
-  border-radius: 1.5rem;
+  border-radius: 0rem;
   cursor: pointer;
   height: 1.5rem;
   transition-duration: 200ms;
@@ -333,7 +333,7 @@ fieldset {
 
 .fs-textarea {
   appearance: none;
-  border-radius: 0.375rem;
+  border-radius: 0rem;
   border-width: 0;
   box-shadow: var(--color-border-default) 0 0 0 1px inset;
   color: var(--color-primary);

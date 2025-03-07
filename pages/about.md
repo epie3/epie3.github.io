@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hello, My name is Edward Pieluc and I am a aspiring Mechanical engineer with intrests in advanced manufacturing, fluid mechanics, and design. I have experience working in both traditional(machine shop) manufacturing enviroments as well as advanced R&D manufacturing. I also have years of design experience working on my university's Baja SAE team, where I designed parts in the Powertrain and chassis sub-systems. In my free time I enjoy designing and building all kinds of projects, photography and playing the drums. 

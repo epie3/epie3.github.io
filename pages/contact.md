@@ -25,7 +25,7 @@ permalink: /contact
     <input class="fs-input" id="number" name="number" />
   </div>
   <div class="fs-field">
-    <label class="fs-label" for="message">Inquiry Message</label>
+    <label class="fs-label" for="message">Message</label>
     <textarea
       class="fs-textarea"
       id="message"

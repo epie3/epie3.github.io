@@ -30,7 +30,7 @@
 }
 @media (max-width: $tablet-width) {
   .post-content {
-    width: 800px;
+    width: 120vw;
     display: block;
     margin: 10px auto 10px;
   }
@@ -65,7 +65,7 @@
 }
 .related-thumbnail {
   position: relative;
-  width: 800px;
+  width: 600px;
   height: 200px;
   overflow: hidden;
 }
@@ -74,7 +74,7 @@
   left: 50%;
   top: 50%;
   height: auto;
-  width: 800px;
+  width: 600px;
   -webkit-transform: translate(-50%,-50%);
       -ms-transform: translate(-50%,-50%);
           transform: translate(-50%,-50%);

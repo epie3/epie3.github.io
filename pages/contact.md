@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: contact
 title: Contact
 permalink: /contact
 ---
 
 <!-- modify this form HTML and place wherever you want your form -->
+<head>
+  <link rel="stylesheet" href="_contact.scss">
+</head>
 
 <form
   action="https://formspree.io/f/xaneworp"

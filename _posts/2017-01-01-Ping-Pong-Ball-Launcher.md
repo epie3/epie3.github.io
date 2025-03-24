@@ -4,7 +4,7 @@ title: "Ping Pong Ball Launcher"
 author: "Edward Pieluc"
 categories: sample
 tags: [documentation,sample]
-image: PingPong1.jpg
+image: PingPongTitle.jpg
 ---
 
 In this project I designed and built a Ping pong ball launcher. The launcher had the ability to change launch angle, add spin to the ball, and change launch distance and frequency. Two flywheels powered by variable speed motors were used to launch the ping pong balls, with a feeding mechanism that accepted the balls from the hopper and then pushed them into the flywheels located directly behind the flywheels.  The whole system is mounted on a aluminum base that can clamp to most ping pong tables.

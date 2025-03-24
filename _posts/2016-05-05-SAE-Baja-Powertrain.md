@@ -55,6 +55,15 @@ Overall requirements for this transfer case included minimizing weight/size, mee
 </div>
 
 <div class="row">
+ <div class="column">
+    <img src="{{ site.github.url }}/assets/img/TransferCaseMill.jpg" alt="PedalArmFEA" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="{{ site.github.url }}/assets/img/TransferCaseFixture.jpg" alt="PedalFEA" style="width:100%">
+  </div>
+    <div class="column">
+    <img src="{{ site.github.url }}/assets/img/FDMill.jpg" alt="PedalFEA" style="width:100%">
+  </div>
   <div class="column">
     <img src="{{ site.github.url }}/assets/img/OverallPowerTrain.jpg" alt="PedalArmFEA" style="width:100%">
   </div>

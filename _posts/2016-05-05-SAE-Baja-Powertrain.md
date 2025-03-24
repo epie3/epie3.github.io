@@ -42,3 +42,14 @@ Transfer Case
 One of my later projects while working on the powertrain team, I Started from scratch. The previous team had designed a chain based reduction box, that was inefficient and difficult to service. The team and myself decided to switch to a more traditional gear based transfer case which would be more efficient and easier to service.
 
 Overall requirements for this transfer case included minimizing weight/size, meeting the previously determined ideal overall gear ratio, ease of service and high reliability. I started by performing AGMA gear calculations to find the smallest size set of gears that would fit the required gear ratio. All shafts were then designed, stress calculations and FEA were performed to ensure they would withstand the required loads after the internals of the case were designed, the Case was then drawn. It was designed with the intent to be easily manufactured, with minimal mass and internal volume (this reduces the amount of oil needed for gear lubrication) Appropriate bearings and seals were also chosen and included in the design. 
+
+<img src="{{ site.github.url }}/assets/img/TransferCase.jpg" alt="PedalFEA" style="width:100%">
+
+<div class="row">
+  <div class="column">
+    <img src="{{ site.github.url }}/assets/img/GearFEA.jpg" alt="PedalArmFEA" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="{{ site.github.url }}/assets/img/AGMA.jpg" alt="PedalFEA" style="width:100%">
+  </div>
+</div>

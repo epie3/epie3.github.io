@@ -2,7 +2,7 @@
 layout: post
 title: "Filter Paper Roller"
 author: "Edward Pieluc"
-categories: sample
-tags: [documentation,sample]
+categories: hide
+tags: [hide]
 image: cuba-1.jpg
 ---

@@ -53,3 +53,33 @@ Overall requirements for this transfer case included minimizing weight/size, mee
     <img src="{{ site.github.url }}/assets/img/AGMA.jpg" alt="PedalFEA" style="width:100%">
   </div>
 </div>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<div class="row">
+  <div class="column">
+    <img src="{{ site.github.url }}/assets/img/OverallPowertrain.jpg" alt="PedalArmFEA" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="{{ site.github.url }}/assets/img/BevelFEA.jpg" alt="PedalFEA" style="width:100%">
+  </div>
+    <div class="column">
+    <img src="{{ site.github.url }}/assets/img/ShaftFEA.jpg" alt="PedalFEA" style="width:100%">
+  </div>
+</div>

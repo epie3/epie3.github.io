@@ -30,9 +30,9 @@ One of my First Projects after joining the Stevens Baja team, During this projec
 
 <div class="row">
   <div class="column">
-    <img src="{{ site.github.url }}/assets/img/PedalArmFEA.jpg" alt="PedalArmFEA" style="width:100%">
+    <img src="https://www.edwardpieluciii.com/assets/img/PedalArmFEA.jpg" alt="PedalArmFEA" style="width:100%">
   </div>
   <div class="column">
-    <img src="{{ site.github.url }}/assets/img/PedalFEA.jpg" alt="PedalFEA" style="width:100%">
+    <img src="https://www.edwardpieluciii.com/assets/img/PedalFEA.jpg" alt="PedalFEA" style="width:100%">
   </div>
 </div>

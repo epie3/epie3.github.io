@@ -13,7 +13,7 @@ Significant amounts of technical analysis were required in this project to ensur
 
 This design used a unique screw driven concept that moved the sheave back and forth by spinning a acme threaded screw inside a nut attached to the sheaves. The design can be seen below, with the electronic motor mounting to the green plate, interfacing with the shaft adapter and eventually the screw mechanism. 
 
-<img src="{{ site.github.url }}/assets/img/CVTParts" alt="PedalArmFEA" style="width:100%">
+<img src="https://www.edwardpieluciii.com/assets/img/CVTParts" alt="PedalArmFEA" style="width:100%">
     
 <style>
 * {
@@ -37,30 +37,30 @@ This design used a unique screw driven concept that moved the sheave back and fo
 
 <div class="row">
   <div class="column">
-    <img src="{{ site.github.url }}/assets/img/CVT1.jpg" alt="PedalArmFEA" style="width:100%">
+    <img src="https://www.edwardpieluciii.com/assets/img/CVT1.jpg" alt="PedalArmFEA" style="width:100%">
   </div>
   <div class="column">
-    <img src="{{ site.github.url }}/assets/img/CVT2.jpg" alt="PedalFEA" style="width:100%">
-  </div>
-</div>
-
-
-<div class="row">
-  <div class="column">
-<img src="{{ site.github.url }}/assets/img/CVTLathe.jpg" alt="PedalFEA" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="{{ site.github.url }}/assets/img/Sheave.jpg" alt="PedalArmFEA" style="width:100%">
+    <img src="https://www.edwardpieluciii.com/assets/img/CVT2.jpg" alt="PedalFEA" style="width:100%">
   </div>
 </div>
 
 
 <div class="row">
   <div class="column">
-<img src="{{ site.github.url }}/assets/img/CVTDWG2.jpg" alt="PedalFEA" style="width:100%">
+<img src="https://www.edwardpieluciii.com/assets/img/CVTLathe.jpg" alt="PedalFEA" style="width:100%">
   </div>
   <div class="column">
-    <img src="{{ site.github.url }}/assets/img/CVTDWG1.jpg" alt="PedalFEA" style="width:100%">
+    <img src="https://www.edwardpieluciii.com/assets/img/Sheave.jpg" alt="PedalArmFEA" style="width:100%">
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column">
+<img src="https://www.edwardpieluciii.com/assets/img/CVTDWG2.jpg" alt="PedalFEA" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://www.edwardpieluciii.com/assets/img/CVTDWG1.jpg" alt="PedalFEA" style="width:100%">
   </div>
 </div>
 

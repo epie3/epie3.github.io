@@ -32,11 +32,11 @@ In this project I designed and built a Ping pong ball launcher. The launcher had
 
 <div class="row">
   <div class="column">
-    <img src="{{ site.github.url }}/assets/img/PingPong1.jpg" alt="PedalArmFEA" style="width:100%">
+    <img src="https://www.edwardpieluciii.com/assets/img/PingPong1.jpg" alt="PedalArmFEA" style="width:100%">
   </div>
   <div class="column">
-    <img src="{{ site.github.url }}/assets/img/PingPong3.jpg" alt="PedalFEA" style="width:100%">
+    <img src="https://www.edwardpieluciii.com/assets/img/PingPong3.jpg" alt="PedalFEA" style="width:100%">
   </div>
 </div>
 
- <img src="{{ site.github.url }}/assets/img/PingPong2.jpg" alt="PedalFEA" style="width:100%">
+ <img src="https://www.edwardpieluciii.com/assets/img/PingPong2.jpg" alt="PedalFEA" style="width:100%">

@@ -1,5 +1,5 @@
 .post-content {
-  width: 1200px;
+  width: 600px;
   display: block;
   margin: 10px auto 10px;
 }
@@ -13,11 +13,11 @@
   align: middle;
   margin: 5px auto 25px;
   display: block;
-  max-width: 1200px;
+  max-width: 600px;
 }
 @media (max-width: $container-width) {
   .post-content {
-    width: 240vw;
+    width: 120vw;
     display: block;
     margin: 10px auto 10px;
   }
@@ -25,12 +25,12 @@
     align: middle;
     margin: 5px auto 25px;
     display: block;
-    max-width: 120vw;
+    max-width: 60vw;
   }
 }
 @media (max-width: $tablet-width) {
   .post-content {
-    width: 240vw;
+    width: 120vw;
     display: block;
     margin: 10px auto 10px;
   }
@@ -38,7 +38,7 @@
     align: middle;
     margin: 5px auto 25px;
     display: block;
-    max-width: 190vw;
+    max-width: 95vw;
   }
 }
 .post-share {
@@ -65,7 +65,7 @@
 }
 .related-thumbnail {
   position: relative;
-  width: 1200px;
+  width: 600px;
   height: 200px;
   overflow: hidden;
 }
@@ -74,7 +74,7 @@
   left: 50%;
   top: 50%;
   height: auto;
-  width: 1200px;
+  width: 600px;
   -webkit-transform: translate(-50%,-50%);
       -ms-transform: translate(-50%,-50%);
           transform: translate(-50%,-50%);
@@ -86,11 +86,11 @@
 }
 @media (max-width: $container-width) {
   .related-thumbnail{
-    width: 240vw;
+    width: 120vw;
   }
 }
 @media (max-width: $tablet-width) {
   .related-thumbnail{
-    width: 240vw;
+    width: 120vw;
   }
 }

@@ -56,7 +56,7 @@ Overall requirements for this transfer case included minimizing weight/size, mee
 
 <div class="row">
   <div class="column">
-    <img src="{{ site.github.url }}/assets/img/OverallPowertrain.jpg" alt="PedalArmFEA" style="width:100%">
+    <img src="{{ site.github.url }}/assets/img/OverallPowerTrain.jpg" alt="PedalArmFEA" style="width:100%">
   </div>
   <div class="column">
     <img src="{{ site.github.url }}/assets/img/BevelFEA.jpg" alt="PedalFEA" style="width:100%">
